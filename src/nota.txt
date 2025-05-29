@@ -1,0 +1,18 @@
+===== BOLETO DE VENDA - MONTE SEU PC =====
+
+RAM ESCOLHIDA:
+Marca: Crucial
+Modelo: Ballistix
+Capacidade: 16GB
+Frequência: 3200 MHz
+Tipo: DDR4
+Preço: R$ 229.90
+
+CPU ESCOLHIDA:
+Marca: AMD
+Modelo: Ryzen 7 9600X3D
+Socket: AM4
+Preço: R$ 2599.90
+
+------------------------------------------
+TOTAL: R$ 2829.80

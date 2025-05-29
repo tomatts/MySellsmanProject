@@ -1,0 +1,38 @@
+ // ############
+
+    //     printf("Monte seu PC!\n");
+    //     printf("Escolha o hardware: ");
+    //     printf("(1) RAM, (2) Processador [CPU], (3) Placa Mãe, (4) Placa Dedicada [GPU]\n");
+    //     printf("Sua escolha: ");
+
+    //     scanf("%d", &escolha_tipo_hardware);
+
+    //     // após escolher o numero e ele ser armazenado em escolha tipo hardware
+    //     //  condicional para saber se escolha tipo hardware é menor que RAM ou maior que GPU que o typedef estabelece como 1 e 2 respectivamente
+    //     if (escolha_tipo_hardware < RAM || escolha_tipo_hardware > GPU)
+    //     {
+    //         printf("Escolha inválida, por favor escolha entre tipos de hardware 1 até 4\n");
+    //         return 1;
+    //     }
+    //     // tribua a variavel escolha_tipo_hardware o valor digitado mas agora sendo tratado ou interpretado como se fosse do tipo tipo_hardware(cpu/ram/mobo/etc)
+    //     escolha_tipo_hardware = (tipo_hardware)escolha_tipo_hardware;
+
+    //     switch (escolha_tipo_hardware)
+    //     {
+
+    //     break;
+    //     default:
+    //         printf("Escolha ainda não disponível.\n");
+    //         return 1;
+    //     case CPU:
+    //     {
+
+    //     }
+    //     break;
+    //     }
+
+    //     printf("\n");
+    //     // GERAÇÃO DE BOLETO DA VENDA
+    // FILE *arquivo = fopen("nota.txt", "w");
+
+    // if (!arquivo)
